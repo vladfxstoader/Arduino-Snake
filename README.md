@@ -49,7 +49,7 @@ The menu contains the following submenus:
 * Arduino Uno Board
 
 # Setup
-TODO
+![Setup](https://raw.githubusercontent.com/vladfxstoader/Arduino-Snake/main/setup.jpg)
 
 # Demo
 TODO
