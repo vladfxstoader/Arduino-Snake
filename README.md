@@ -49,7 +49,8 @@ The menu contains the following submenus:
 * Arduino Uno Board
 
 # Setup
-![Setup](https://raw.githubusercontent.com/vladfxstoader/Arduino-Snake/main/setup.jpg)
+![Setup](https://github.com/vladfxstoader/Arduino-Snake/blob/main/setup.jpg?raw=true)
+
 
 # Demo
 TODO
