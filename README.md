@@ -48,9 +48,9 @@ The menu contains the following submenus:
 * Cables
 * Arduino Uno Board
 
+# [Demo](https://www.youtube.com/watch?v=a7yuAThGhac)
+
+# [Code](https://github.com/vladfxstoader/Arduino-Snake/blob/main/snake/snake.ino)
+
 # Setup
 ![Setup](https://github.com/vladfxstoader/Arduino-Snake/blob/main/setup.jpg?raw=true)
-
-
-# Demo
-TODO
