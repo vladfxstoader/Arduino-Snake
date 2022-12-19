@@ -178,6 +178,8 @@ int directionColumn = 1; // (1, 0) - down, (0, -1) - left
 void resetToMenu() {
   lcd.clear();
   lcd.print("<MENU>");
+  lcd.setCursor(15, 0);
+  lcd.write(byte(0));
   lcd.setCursor(0, 1);
   lcd.print(">");
   lcd.print(menuOptions[menuCurrentItem]);
